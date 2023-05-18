@@ -16,14 +16,14 @@ export default function Partners() {
             <div className="lg:max-w-screen-lg mt-10 mx-auto grid grid-cols-1 md:grid-cols-2 gap-4">
 
             <div className="flex flex-col justify-center text-white rounded">
-            <a href="https://discord.gg/EFQUvQWxuk">
+            <a href="https://discord.gg/JaNCZvPxMQ">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">FALCON HOSTING</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">None</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        FALCON HOSTING
+                                        None!
                                     </p>
                                 </div>     
                             </div>
@@ -32,7 +32,7 @@ export default function Partners() {
                     </div>
 
                     <div className="flex flex-col justify-center text-white rounded">
-                        <a href="https://discord.gg/EFQUvQWxuk">
+                        <a href="https://discord.gg/JaNCZvPxMQ">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
                             <img className="rounded-full h-32 w-32" src="" />
                             <div>
