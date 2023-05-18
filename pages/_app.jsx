@@ -25,7 +25,19 @@ export default function AwardApp({ Component, pageProps }) {
       activeIcon: "fa fa-home",
       href: "/",
     },
+    {
 
+      link: true,
+
+      name: "Discord",
+
+      icon: "fab fa-discord",
+
+      activeIcon: "fab fa-discord",
+
+      href: "/support",
+
+    },
     {
       link: true,
       name: "Partners",
@@ -51,7 +63,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Treo
+          Eternals
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
