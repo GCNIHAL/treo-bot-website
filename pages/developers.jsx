@@ -10,10 +10,10 @@ export default function Developers() {
         </h1>
 
       <div className="flex justify-center">
-        <DiscordWidget imageUrl="https://discord.c99.nl/widget/theme-2/980069165459198022.png" />
+        <DiscordWidget imageUrl="https://discord.c99.nl/widget/theme-4/920249735938457670.png" />
       </div>
       <div className="flex justify-center">
-        <DiscordWidget imageUrl="https://discord.c99.nl/widget/theme-2/903237169722834954.png" />
+        <DiscordWidget imageUrl="https://discord.c99.nl/widget/theme-4/837566093182763029.png" />
       </div>
     </div>
   );
