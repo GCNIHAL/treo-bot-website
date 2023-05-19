@@ -38,13 +38,7 @@ export default function AwardApp({ Component, pageProps }) {
       href: "/support",
 
     },
-    {
-      link: true,
-      name: "Partners",
-      icon: "fal fa-handshake",
-      activeIcon: "fa fa-handshake",
-      href: "/partners",
-    },
+
     {
       link: true,
       name: "Developers",
